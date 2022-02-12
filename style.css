@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding: 5px;
+    background-color: green;
+    border-radius: 10px;  
+}
+
+header a{
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+}
+
+nav {
+    background-color: yellow;
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 30px;
+    background-color: yellowgreen;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+}
+
+main h1 {
+    color: tomato;
+    background-color: yellow;
+    border: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+main {
+    background-color: yellowgreen;
+}
+
+main a {
+    text-decoration: none;
+    margin: 5px;
+    background-color: green;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+}
+
+.pasa {
+    background-color: lightblue;
+    color: green;
+}
+
+footer {
+    background-color: royalblue;
+    color: lightblue;
+    border-radius: 5px;
+}
+
+footer p {
+    border-radius: 5px;
+    border: 5px solid yellowgreen;
+    background-color: darkcyan;
+}
+
+main h2 {
+    color: tomato;
+    text-align: center; 
+    border: 3px solid 	#CD5C5C;
+    background-color: #FFA07A;
+}
+
+.epa {
+    color: red;
+}
+
+.tabl {
+    border: 3px solid green;
+    
+}
